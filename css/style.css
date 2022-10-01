@@ -1057,7 +1057,6 @@ img {
 
 .agreement-icon-check {
     opacity: 0;
-    transition: opacity;
 
     transition-property: opacity;
     transition-duration: var(--transition-duration);
